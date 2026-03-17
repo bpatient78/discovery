@@ -74,9 +74,10 @@ This is a list of people who contributed to the discussions that led to this wor
 - Roland Schott <Roland.Schott@telekom.de>
 - Zaheduzzaman Sarker <zahed.sarker.ietf@gmail.com>
 - Daniel King <daniel@olddog.co.uk>
+- Adrian Farrel <adrian@olddog.co.uk>
 
 ## Relevant Internet-Drafts
 This section does not imply that any draft is *the* draft, but attempts to show that people are thinking about this topic already.
 - 
-- Adrian Farrel <adrian@olddog.co.uk>
+
 
