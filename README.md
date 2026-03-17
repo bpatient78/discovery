@@ -18,9 +18,9 @@ This discovery is as simple as asking "Find me an entity to talk to." However, t
 - How do I communicate with that entity?
 - Is the information about the entity trustable?
 
-There is a functional layer after discovery that determines which instance of a class of entity should be used. This process may examine location, reachability, load, and operational status. Those pieces of information have to be examinable, but they do not form part of the core discovery function, but may be implemented by a discovered intermediary aggregation point or broker.
+There is a functional layer after discovery that determines which instance of a class of entity should be used. This process may examine location, reachability, load, and operational status. Those pieces of information have to be examinable, but they do not form part of the core discovery function, but may be implemented by a discovered intermediary aggregation point or broker. This element of the problem space is not in scope for the discovery work.
 
-This leads to consider the distinction between mandatory base information which is likely to be static or semi-static, and more dynamic information that could be changing frequently and which is likely to cause scaling and stability issues for a discovery system.
+However, the different parts of the problem space lead to considering the distinction between mandatory base information which is likely to be static or semi-static, and more dynamic information that could be changing frequently and which is likely to cause scaling and stability issues for a discovery system.
 
 This work effort seeks to solve the following questions:
 - How is an entity classified with respect to its function, origin, location, and type?
