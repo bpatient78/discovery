@@ -61,5 +61,6 @@ Where possible, any solutions work will be built in a modular way using existing
 - Responsibility
 - Capability and Negotiation 
 - Tasks Management
+- Agent-to-agent communications
 - Schema Definition
 
