@@ -17,7 +17,7 @@ The proponents fully intend to continue refining existing Internet-Drafts concur
 
 ## Problem Statement and Work Scope
 
-Many distributed processing environments depend on the interaction between components that do not have pre-configured relationships. In order for these systems to operate correctly, the components must be able to discover each other. For complete generality, we call these components "entities". Entities may be software tasks, services, AI agents, etc.
+Many distributed processing environments depend on the interaction between components that do not have pre-configured relationships. In order for these systems to operate correctly, the components must be able to discover each other. For complete generality, we call these components "entities". Entities may be software tasks, workloads (cf. WIMSE), services, AI agents, etc.
 
 This discovery is as simple as asking "Find me an entity to talk to." However, there is a lot of detail underlying this question including:
 - What functionality do we want an entity to provide for us?
