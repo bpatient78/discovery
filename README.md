@@ -5,7 +5,7 @@ Short description of proposed Discovery work item.
 
 - Entity: A system component that communicates at a peer-to-peer or client-server level with another entity. Examples include, AI agents.
 - Object: The records in the discovery system.
-- Function: The functional processing capability that an entity offers. Examples include, tasks, jobs, services, tools.
+- Function: The functional processing capability that an entity offers. Examples include, tasks, workloads, jobs, services, tools.
 - Tasks: Legacy term kept for continuity with earlier drafts.
 - Jobs: Legacy term kept for continuity with earlier drafts.
 
