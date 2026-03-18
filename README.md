@@ -12,13 +12,13 @@ The proponents fully intend to continue refining existing Internet-Drafts concur
 
 - Entity: A system component that communicates at a peer-to-peer or client-server level with another entity. Examples include, tools, skills, tasks, workloads, services, task owners, and AI agents.
 - Object: The records in the discovery system. Examples include, agent cards, task cards, resource cards, tool cards, and skill cards.
-- Function: The functional processing capability that an entity offers. Examples include, tasks, workloads, jobs, services, tools.
+- Function: The functional processing capability that an entity offers. Examples include, tasks, workloads, endpoints, jobs, services, tools.
 - Tasks: Legacy term kept for continuity with earlier drafts.
 - Jobs: Legacy term kept for continuity with earlier drafts.
 
 ## Problem Statement and Work Scope
 
-Many distributed processing environments depend on the interaction between components that do not have pre-configured relationships. In order for these systems to operate correctly, the components must be able to discover each other. For complete generality, we call these components "entities". Entities may be tasks, workloads (cf. WIMSE), services, AI agents, etc.
+Many distributed processing environments depend on the interaction between components that do not have pre-configured relationships. In order for these systems to operate correctly, the components must be able to discover each other. For complete generality, we call these components "entities". Entities may be tasks, workloads (cf. WIMSE), endpoints (cf. CoRE), services, AI agents, etc.
 
 This discovery is as simple as asking "Find me an entity to talk to." However, there is a lot of detail underlying this question including:
 - What functionality do we want an entity to provide for us?
