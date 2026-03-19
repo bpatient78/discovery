@@ -15,9 +15,9 @@ The proponents fully intend to continue refining existing Internet-Drafts concur
 - Function: The functional processing capability that an entity offers. Examples include, tasks, workloads, endpoints, jobs, services, tools.
 - Tasks: Legacy term kept for continuity with earlier drafts.
 - Jobs: Legacy term kept for continuity with earlier drafts.
-- Registration:
+- Registration: The steps by which agents can register their existence. This should include attestation and other security mechanisms.
 - Discovery:    (The purpose of this work effort is limited to just this element)
-- Capability exchange / negotiation: 
+- Capability exchange / negotiation: The processes by which agents can exchange details of what they can do, dynamic information about statuses (including workloads), and which particular features/functions they want to engage.
 - Selection: The mechanisms and policies by which an agent determines which other agents it will communicate with.
 
 ## Problem Statement and Work Scope
