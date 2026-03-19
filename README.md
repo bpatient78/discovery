@@ -84,12 +84,12 @@ Authentication and authorisation of the discovery mechanisms will be important, 
 
 ### What needs to be standardised?
 
-** Protocols **
+**Protocols**
 
 Entities wishing to discover other entities need to know what protocol to sue when talking to discovery enablers (servers).
 It is possible that different scenarios will benefit from using different protocols. This question remains to be answered depending on investigation of those scenarios.
 
-** Objects **
+**Objects**
 
 - Mandatory discoverable objects need to be standardised so that anyone examining a record can find key information and an indication of what the rest of the information is. 
 - It is posisble that optional discoverable objects will also be standardised for particular types or classes of entity.
