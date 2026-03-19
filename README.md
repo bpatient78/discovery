@@ -78,9 +78,11 @@ Authentication and authorisation of the discovery mechanisms will be important, 
 
 ## Implementations and Interoperability
 
->>> This section to be completed per suggestions at IETF Plenary
+Implementation and interoperability are essential cornerstones of IETF work. It is important to understand which elements need to be built to interoperate.
 
 ### What are implementable components?
+
+>> TBD
 
 ### What needs to be standardised?
 
@@ -96,6 +98,8 @@ It is possible that different scenarios will benefit from using different protoc
 - However, other optional discoverable entities will remain the reponsibility of forums and vendors.
 
 ### What are the interoperability interfaces?
+
+>> TBD
 
 ## Coordination with other organisations
 
