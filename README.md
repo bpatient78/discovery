@@ -97,7 +97,20 @@ It is possible that different scenarios will benefit from using different protoc
 
 ### What are the interoperability interfaces?
 
+## Coordination with other organisations
+
+This work is closely related to work done in other organisations and bodies. This work effort will seek to take input from other experts while attempting  to bring them together to coordinate on this issue.
+
+Outreach should take place to at least:
+- ITU-T SG17
+- Anthropic
+- OpenAI
+- Amazon
+- GCS
+- Linux Foundation
+
 ## Proponents
+
 This is a list of people who contributed to the discussions that led to this work description. Draw no conclusions from the ordering of people in this list.
 - Nic Williams <nwilliams@infoblox.com>
 - Laurent Ciavaglia <laurent.ciavaglia@nokia.com>
@@ -110,6 +123,7 @@ This is a list of people who contributed to the discussions that led to this wor
 - Adrian Farrel <adrian@olddog.co.uk>
 
 ## Relevant Internet-Drafts
+
 This section does not imply that any draft is *the* draft, but attempts to show that people are thinking about this topic already.
 - "AI Agent Discovery (AID) Problem Statement" <https://datatracker.ietf.org/doc/draft-mozley-aidiscovery/>
 - "DNS for AI Discovery" <https://datatracker.ietf.org/doc/draft-mozleywilliams-dnsop-dnsaid/>
