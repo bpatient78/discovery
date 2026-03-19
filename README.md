@@ -72,6 +72,11 @@ Discovered Information may be further categorised as:
 ## Implementations and Interoperability
 
 >>> This section to be completed per suggestions at IETF Plenary
+### What are implementable components?
+
+### What needs to be standardised?
+
+### What are the interoperability interfaces?
 
 ## Proponents
 This is a list of people who contributed to the discussions that led to this work description. Draw no conclusions from the ordering of people in this list.
@@ -96,7 +101,5 @@ This section does not imply that any draft is *the* draft, but attempts to show 
 - "AI Agent Discovery and Invocation Protocol" <https://datatracker.ietf.org/doc/draft-cui-ai-agent-discovery-invocation/>
 - "Agent Registration and Discovery Protocol (ARDP)" <https://datatracker.ietf.org/doc/draft-pioli-agent-discovery>
 - "DNS-based Service Discovery for Computing-Aware Traffic Steering (CATS)" <https://datatracker.ietf.org/doc/draft-liu-cats-dns-service-discovery/>
-
-
 
 
