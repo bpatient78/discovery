@@ -17,6 +17,7 @@ The proponents fully intend to continue refining existing Internet-Drafts concur
 - Jobs: Legacy term kept for continuity with earlier drafts.
 - Registration:
 - Discovery:
+- Capability exchange / negotiation: 
 - Selection: 
 
 ## Problem Statement and Work Scope
