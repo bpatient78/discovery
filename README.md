@@ -46,6 +46,7 @@ Where possible, any solutions work will be built in a modular way using existing
 
 ## Functional Requirements
 
+- What are primary scenario groupings (categories) where discovery is needed.
 - Who discovers (an entity)
 - Who is discovered (another entity or a class of entities)
 - What information is being discovered?
