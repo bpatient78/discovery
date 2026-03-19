@@ -18,7 +18,7 @@ The proponents fully intend to continue refining existing Internet-Drafts concur
 - Registration:
 - Discovery:    (The purpose of this work effort is limited to just this element)
 - Capability exchange / negotiation: 
-- Selection: 
+- Selection: The mechanisms and policies by which an agent determines which other agents it will communicate with.
 
 ## Problem Statement and Work Scope
 
