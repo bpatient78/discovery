@@ -73,8 +73,8 @@ Authentication and authorisation of the discovery mechanisms will be important, 
 - Trust, authentication, and authorisation of the entities
 - Responsibility
 - Capability and Negotiation 
-- Tasks Management
-- Agent-to-agent communications
+- Task Management
+- Agent-to-agent communication
 
 ## Implementations and Interoperability
 
@@ -112,6 +112,8 @@ Outreach should take place to at least:
 - Amazon
 - GCS
 - Linux Foundation
+- GoDaddy
+- Cloudflare
 
 ## Proponents
 
