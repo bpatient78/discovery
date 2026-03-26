@@ -1,6 +1,6 @@
 # Discovery of Agents, Workloads, and Named entities (DAWN)
 
-This document provides short description of a proposed Discovery IETF work item.
+This document provides short description of a proposed IETF work item.
 At this stage, this is not a BoF Request and not a draft Working Group Charter.
 The intention is to capture the scope of a piece of work that the proponents believes is in IETF scope and needs urgent attention.
 Our hope is that Area Directors will help us dispatch this to a place to do the work:
