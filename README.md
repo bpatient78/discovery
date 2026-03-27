@@ -15,14 +15,18 @@ Some explanation of terminology is provided after the problem statement that use
 
 Many distributed processing environments depend on the interaction between components that do not have pre-configured relationships. In order for these systems to operate correctly, the components must be able to discover each other. For complete generality, we call these components "entities". Entities may be tasks, workloads (cf. WIMSE), endpoints (cf. CoRE), services, AI agents, etc.
 
-This discovery is as simple as asking "Find me an entity to talk to." However, there is a lot of detail underlying this question including:
+Providing a decentralised and interoperable discovery mechanism is essential to protecting the openness of the Internet and protecting against dominance by a single or a small number of providers. Integral to this is building a governance system for the registration of entities.
+
+Discovery in this context is as simple as asking "Find me an entity to talk to." However, there is a lot of detail underlying this question including:
 - What functionality do we want an entity to provide for us?
 - What mechanisms exist to facilitate communication with that entity?
 - Is the information about the entity trustable?
 
+There is a functional layer before discovery that allows entities to register themselves for discovery. Various aspects of security are extremely important in this function. This element of the problem space is not in scope for the discovery work.
+
 There is a functional layer after discovery that determines which instance of a class of entity should be used. This process may examine location, reachability, load, and operational status. Those pieces of information have to be examinable, but they do not form part of the core discovery function, but may be implemented by a discovered intermediary aggregation point or broker. This element of the problem space is not in scope for the discovery work.
 
-However, the different parts of the problem space lead to considering the distinction between mandatory base information which is likely to be static or semi-static, and more dynamic information that could be changing frequently and which is likely to cause scaling and stability issues for a discovery system.
+The discovery problem space lead to considering the distinction between mandatory base information which is likely to be static or semi-static, and more dynamic information that could be changing frequently and which is likely to cause scaling and stability issues for a discovery system.
 
 Many discovery techniques exist today, and work has progressed beyond the discovery of simple web sites. This work effort will examine new types of entities and their special needs with respect to discovery and contrast them with state of the art discovery tools and mechanisms. Applicability will include the discovery of AI agents, but will also seek to generalise discovery to "entities" as defined here.
 
