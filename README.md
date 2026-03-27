@@ -39,7 +39,7 @@ This work effort seeks to solve the following questions:
 
 Issues of the larger architecture of how entities select each other and how they communicate are out of scope. How agents register and authenticate their registration are also out of scope. The solution should work independent of the discovery architecture and the system architecture into which the discovery system sits.
 
-Where possible, any solutions work will be built in a modular way using existing IETF protocols. However, no protocol solution choices will be made until the requirements (functional and behavioral) have been agreed.
+Where possible, any solutions work will be built in a modular way using existing IETF protocols. However, no protocol solution choices will be made until the requirements (functional and behavioral) have been agreed, and then this will require an analysis of the capabilities of existing protocols and what gaps need to be filled.
 
 ## Terminology 
 
