@@ -55,16 +55,19 @@ Where possible, any solutions work will be built in a modular way using existing
 
 ## Functional Requirements
 
-- What are primary scenario groupings (categories) where discovery is needed.
-- Who discovers (an entity)
-- Who is discovered (another entity or a class of entities)
+- What are primary scenario groupings (categories) of entities where discovery is needed?
+- What is unique/specific for the discovery of these entities?
+- Who discovers (an entity)?
+- Who is discovered (another entity or a class of entities)?
 - What information is being discovered?
-	- Who is responsible for this vs anonymous
-	- Type (e.g., IETF, Microsoft,...)
-	- What it does (functionality)
-	- How much of this function can it do
-	- How communication mechanisms excist for communication with the entity (and security for communications)
-	- Who made the registration (trust or no-trust authentication)
+    - What are the common characteristics across all entities?
+	- Who is responsible for the entity? Also allow anonymous.
+	- Source (e.g., IETF, Microsoft, ...)
+    - Type of entity
+	- What the entity does (functionality)?
+	- How much of this function can it do?
+	- How communication mechanisms excist for communication with the entity (and security for communications)?
+	- Who made the registration (trust or no-trust authentication)?
 - How is discovery achieved?
 - Where does discovery fit in the overall workflow?
 
@@ -76,6 +79,7 @@ Discovered Information may be further categorised as:
 Authentication and authorisation of the discovery mechanisms will be important, but verification of entity security propoerties are out of scope.
 
 ## Out Of Scope
+
 - How do I register my entity (with option for attestation)
 - Trust, authentication, and authorisation of the entities
 - Responsibility
