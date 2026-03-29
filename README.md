@@ -60,7 +60,6 @@ Where possible, any solutions work will be built in a modular way using existing
 - Who discovers (an entity)?
 - Who is discovered (another entity or a class of entities)?
 - What information is being discovered?
-	- Name of the entity
     - What are the common characteristics across all entities?
 	- Who is responsible for the entity? Also allow anonymous.
 	- Source (e.g., IETF, Microsoft, ...)
