@@ -60,6 +60,7 @@ Where possible, any solutions work will be built in a modular way using existing
 - Who discovers (an entity)?
 - Who is discovered (another entity or a class of entities)?
 - What information is being discovered?
+	- Name of the entity
     - What are the common characteristics across all entities?
 	- Who is responsible for the entity? Also allow anonymous.
 	- Source (e.g., IETF, Microsoft, ...)
@@ -81,6 +82,7 @@ Authentication and authorisation of the discovery mechanisms will be important, 
 ## Out Of Scope
 
 - How do I register my entity (with option for attestation)
+- Design, definition, and governance of the naming systems for entities
 - Trust, authentication, and authorisation of the entities
 - Responsibility
 - Capability and Negotiation 
@@ -138,6 +140,8 @@ This is a list of people who contributed to the discussions that led to this wor
 - Jim Mozley <jmozley@infoblox.com>
 - Daniel King <daniel@olddog.co.uk>
 - Adrian Farrel <adrian@olddog.co.uk>
+- Kehan Yao <yaokehan@chinamobile.com>
+- Peng Liu <liupengyjy@chinamobile.com>
 
 ## Deliverables
 
@@ -158,4 +162,5 @@ This section does not imply that any draft is *the* draft, but attempts to show 
 - "Agent Registration and Discovery Protocol (ARDP)" <https://datatracker.ietf.org/doc/draft-pioli-agent-discovery/>
 - "AI Agent Discovery and Invocation Protocol" <https://datatracker.ietf.org/doc/draft-cui-ai-agent-discovery-invocation/>
 - "DNS-based Service Discovery for Computing-Aware Traffic Steering (CATS)" <https://datatracker.ietf.org/doc/draft-liu-cats-dns-service-discovery/>
-
+- "Problem Space Analysis of AI Agent Protocols in IETF" <https://datatracker.ietf.org/doc/draft-yao-catalist-problem-space-analysis/>
+- "Why Naming Matters: Identifier Design for Decentralized Digital Infrastructure in the Age of AGI"<https://datatracker.ietf.org/meeting/125/materials/slides-125-dinrg-why-naming-matters-identifier-design-for-decentralized-digital-infrastructure-in-the-age-of-agi-01>
