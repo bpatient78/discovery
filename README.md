@@ -13,7 +13,7 @@ Some explanation of terminology is provided after the problem statement that use
 
 ## Problem Statement and Work Scope
 
-Many distributed processing environments depend on the interaction between components that do not have pre-configured relationships. In order for these systems to operate correctly, the components must be able to discover each other. For complete generality, we call these components "entities". Entities may be tasks, workloads (cf. WIMSE), endpoints (cf. CoRE), services, AI agents, etc.
+Many distributed processing environments depend on the interaction between components that do not have pre-configured capability, location, or reachability relationships. In order for these systems to operate correctly, the components must be able to discover each other. For complete generality, we call these components "entities". Entities may be tasks, workloads (cf. WIMSE), endpoints (cf. CoRE), services, AI agents, etc.
 
 Providing a decentralised and interoperable discovery mechanism is essential to protecting the openness of the Internet and protecting against dominance by a single or a small number of providers. Integral to this is building a governance system for the registration of entities.
 
